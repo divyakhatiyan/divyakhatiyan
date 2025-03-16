@@ -1,4 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divya Kumar===================================================================================================================================I am a Principal Engineer with expertise in Data Handling, Devops and Problem solving.--------------------------------------------------------------------------------------A Principal Engineer, seeking roles in Product Management. Worked on various products comprising of the technologies like python, angular, JavaScript, Html, CI/CD, Unix shell scripts, git, data analytics, containers, data structures, Oraclec@c. Currently interested in LLM use case, Generative AI.* 🌍  I'm based in Gurugram, Haryana, India* ✉️  You can contact me at [divyakhatiyan@gmail.com](mailto:divyakhatiyan@gmail.com)* 🧠  I'm learning AI Concepts and their implementaions with detailing of different Models.* 🤝  I'm open to collaborating on Projects* ⚡  I'm inventer of TimeMachine :-) but don't tell anyone.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Divya Kumar
+===================================================================================================================================
+
+I am a Principal Engineer with expertise in Data Handling, Devops and Problem solving.
+--------------------------------------------------------------------------------------
+
+A Principal Engineer, seeking roles in Product Management. Worked on various products comprising of the technologies like python, angular, JavaScript, Html, CI/CD, Unix shell scripts, git, data analytics, containers, data structures, Oraclec@c. Currently interested in LLM use case, Generative AI.
+
+*   🌍  I'm based in Gurugram, Haryana, India
+*   ✉️  You can contact me at [divyakhatiyan@gmail.com](mailto:divyakhatiyan@gmail.com)
+*   🧠  I'm learning AI Concepts and their implementaions with detailing of different Models.
+*   🤝  I'm open to collaborating on Projects
+*   ⚡  I'm inventer of TimeMachine :-) but don't tell anyone.
 
 ### Skills
 

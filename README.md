@@ -33,7 +33,8 @@ A Principal Engineer, seeking roles in Product Management. Worked on various pro
 
 Below is a visual snapshot of the commit activity for this repository:
 
-![Commit Graph](https://ghchart.rshah.org/divyakhatiyan/experimentation)
+![Commit Graph](https://ghchart.rshah.org/divyakhatiyan/Experimentation)
+![Commit Graph](https://ghchart.rshah.org/divyakhatiyan/DataChatBot)
 
 <a href="https://github.com/divyakhatiyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyakhatiyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

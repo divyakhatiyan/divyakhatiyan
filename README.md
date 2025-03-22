@@ -32,9 +32,7 @@ A Principal Engineer, seeking roles in Product Management. Worked on various pro
 ## Commit Graph
 
 Below is a visual snapshot of the commit activity for this repository:
-
-![Commit Graph](https://ghchart.rshah.org/divyakhatiyan/E-Commerce)
-![Commit Graph](https://ghchart.rshah.org/divyakhatiyan/DataChatBot)
+[GitHub Commit Activity Graph](https://github.com/divyakhatiyan/E-Commerce/graphs/commit-activity)
 
 <a href="https://github.com/divyakhatiyan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyakhatiyan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
